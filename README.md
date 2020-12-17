@@ -12,3 +12,6 @@ All tips for FullStack Devs
 ### Set Swagger active
 ```--spring.profiles.active=swagger```
 
+### Set config profil dev
+Ajouter la VM options suivante :
+```-Dspring.profiles.active=dev```
