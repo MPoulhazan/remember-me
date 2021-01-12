@@ -17,6 +17,21 @@ Ajouter la VM options suivante :
 ```-Dspring.profiles.active=dev```
 
 
+## RXJS
+
+### Liste de tous les opérateurs
+https://www.learnrxjs.io/learn-rxjs/operators
+
+### Operators decision tree
+https://rxjs-dev.firebaseapp.com/operator-decision-tree
+
+### Destructuring JS
+https://tinyurl.com/y2e9ebtp
+
+### Repot Github RXJS
+https://www.npmjs.com/package/rxjs
+
+
 ## Commandes Linux
 ```alias```
 La commande alias est un moyen d’exécuter une commande ou une série de commandes Unix en utilisant un nom plus court que ceux qui sont généralement associés à ces commandes.
